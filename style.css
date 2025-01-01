@@ -36,3 +36,43 @@ ul{
     justify-content: center;
     align-items: center;
 }
+.left{
+    font-size: 30px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+.click{
+    background-color: #3882F6;
+    color: white;
+    font-size: 20px;
+    width: 100px;
+    height: 30px;
+    border: 1px;
+    border-color: #3882F6;
+    border-radius: 20px;
+   
+}
+.main-part{
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+}
+.left{
+    display: flex;
+    justify-content: center;
+   margin-left: 350px ;
+    flex-direction: column;
+    width: 50%;
+}
+ .right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    align-items: center;
+    margin-right: 80px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+
+ }
+ 
