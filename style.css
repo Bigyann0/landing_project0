@@ -21,6 +21,7 @@ body{
 .header-logo{
     font-size: 24px;
     color: #F9FAF8; 
+    font-weight: bolder;
    
 }
 .list{
@@ -100,4 +101,21 @@ color: #1f2937;
 }
 .photo img{
     border-radius: 15px;
+}
+
+.third-box{
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+padding: 100px;
+text-align: center;
+
+}
+.wise{
+    text-align: end;
+    margin-right: 300px;
+}
+.trouble{
+       padding: 20px;
 }
