@@ -147,3 +147,12 @@ border-radius: 20px;
     justify-content: space-between;
     align-items: center;
 }
+
+.fifth-box{
+    background-color: #1f2937;
+    padding: 40px 60px;
+    font-size: 22px;
+    color: white;
+    font-family: "Roboto" serif;
+    text-align: center;
+}
